@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# MDr - 书写你的篇章
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![Banner](img/banner.png)
 
-## Commands
+MDr，一款 Material Design 风格 Typecho 主题，书写你的篇章。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+> 你好，这里是 MDr 的世界。
 
-## Project layout
+这是 MDr 主题的文档。本文档会指导你安装及配置 MDr，并解答一些常见问题。
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+!!! info "编写参考 & 致谢"
+    本文档在编写过程中参考了 [MDx 文档](https://doc.flyhigher.top/mdx/zh-CN/) 和 [MDUI 开发文档](https://www.mdui.org/docs/) ，在此致谢。
