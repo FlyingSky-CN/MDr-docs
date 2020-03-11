@@ -20,6 +20,8 @@ theme:
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
+  include_search_page: false
+  search_index_only: true
 
 # Customization
 extra:
@@ -40,3 +42,4 @@ markdown_extensions:
 nav:
   - 书写你的篇章: index.md
   - 在开始之前: before-start.md
+  - 安装、更新及卸载: install.md
