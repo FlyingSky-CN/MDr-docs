@@ -5,19 +5,18 @@ site_author: 'FlyingSky'
 # Repository
 repo_name: 'FlyingSky-CN/MDr'
 repo_url: 'https://github.com/FlyingSky-CN/MDr'
-edit_uri: "https://github.com/FlyingSky-CN/MDr-docs"
+edit_uri: "https://github.com/FlyingSky-CN/MDr-docs/tree/source/docs"
 
 # Copyright
-copyright: 'Copyright &copy; 2019 - 2020 FlyingSky'
+copyright: 'Copyright &copy; 2019-2020 <a href="https://fsky7.com">FlyingSky</a>'
 
 # Configuration
 theme:
   name: 'material'
   language: 'zh'
-  logo: 'img/logo.png'
   palette:
-    primary: 'indigo'
-    accent: 'pink'
+    primary: 'white'
+    accent: 'blue'
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
@@ -30,5 +29,14 @@ extra:
     - type: 'globe'
       link: 'https://blog.fsky7.com/archives/60/'
 
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.toc:
+      permalink: true
+
 nav:
-  - 你好，这里是 MDr 的世界。: index.md
+  - 书写你的篇章: index.md
+  - 在开始之前: before-start.md
