@@ -43,5 +43,7 @@ nav:
   - 书写你的篇章: index.md
   - 在开始之前: before-start.md
   - 安装、更新及卸载: install.md
+  - 技术信息:
+    - 框架和库: tech/frameworks.md
   - 隐私声明: privacy.md
   - 帮助我们: help-us.md
