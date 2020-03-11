@@ -1,0 +1,34 @@
+site_name: 'MDr docs'
+site_description: 'Typecho 主题 MDr 的文档。'
+site_author: 'FlyingSky'
+
+# Repository
+repo_name: 'FlyingSky-CN/MDr'
+repo_url: 'https://github.com/FlyingSky-CN/MDr'
+edit_uri: "https://github.com/FlyingSky-CN/MDr-docs"
+
+# Copyright
+copyright: 'Copyright &copy; 2019 - 2020 FlyingSky'
+
+# Configuration
+theme:
+  name: 'material'
+  language: 'zh'
+  logo: 'img/logo.png'
+  palette:
+    primary: 'indigo'
+    accent: 'pink'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
+# Customization
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/FlyingSky-CN/MDr'
+    - type: 'globe'
+      link: 'https://blog.fsky7.com/archives/60/'
+
+nav:
+  - 你好，这里是 MDr 的世界。: index.md
