@@ -45,5 +45,6 @@ nav:
   - 安装、更新及卸载: install.md
   - 技术信息:
     - 框架和库: tech/frameworks.md
+  - 常见问题: faq.md
   - 隐私声明: privacy.md
   - 帮助我们: help-us.md
