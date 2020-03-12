@@ -43,7 +43,7 @@ nav:
   - 书写你的篇章: index.md
   - 在开始之前: before-start.md
   - 安装、更新及卸载: install.md
-  - 配置:
+  - 设置外观:
     - 主题色设置: config/color.md
     - CDN 设置: config/cdn.md
   - 技术信息:
