@@ -48,6 +48,8 @@ nav:
   - 设置外观:
     - 主题色设置: config/color.md
     - CDN 设置: config/cdn.md
+  - 附加功能:
+    - 链接: function/links.md 
   - 技术信息:
     - 框架和库: helper/frameworks.md
   - 常见问题: faq.md
