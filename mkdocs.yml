@@ -49,7 +49,7 @@ nav:
     - 主题色设置: config/color.md
     - CDN 设置: config/cdn.md
   - 技术信息:
-    - 框架和库: lib/frameworks.md
+    - 框架和库: helper/frameworks.md
   - 常见问题: faq.md
   - 更新日志: changelog.md
   - 隐私声明: privacy.md

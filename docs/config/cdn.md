@@ -1,6 +1,6 @@
 # CDN 设置
 
-MDr 本身不内置任何 [框架和库](../lib/frameworks.md) 文件，所有文件从外部地址获取。
+MDr 本身不内置任何 [框架和库](../helper/frameworks.md) 文件，所有文件从外部地址获取。
 
 ## MDUI 静态资源来源
 
@@ -19,7 +19,7 @@ MDUI 静态资源包含 `mdui.min.css` 和 `mdui.min.js` 两个文件。
 
 ## 其他公共静态资源来源
 
-[框架和库](../lib/frameworks.md) 中提到的**除了 MDUI 框架外**，都属于其他公共静态资源。
+[框架和库](../helper/frameworks.md) 中提到的**除了 MDUI 框架外**，都属于其他公共静态资源。
 
 ## 其他公共静态资源自建地址
 
