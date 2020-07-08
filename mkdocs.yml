@@ -1,25 +1,27 @@
-site_name: 'MDr docs'
-site_description: 'Typecho 主题 MDr 的文档。'
-site_author: 'FlyingSky'
+site_name: MDr docs
+site_description: Typecho 主题 MDr 的文档。
+site_author: FlyingSky
 
 # Repository
-repo_name: 'FlyingSky-CN/MDr'
-repo_url: 'https://github.com/FlyingSky-CN/MDr'
-edit_uri: "https://github.com/FlyingSky-CN/MDr-docs/tree/source/docs"
+repo_name: FlyingSky-CN/MDr
+repo_url: https://github.com/FlyingSky-CN/MDr
+edit_uri: https://github.com/FlyingSky-CN/MDr-docs/tree/source/docs
 
 # Copyright
-copyright: 'Copyright &copy; 2019-2020 <a href="https://fsky7.com">FlyingSky</a>'
+copyright: Copyright &copy; 2019-2020 <a href="https://fsky7.com">FlyingSky</a>
 
 # Configuration
 theme:
-  name: 'material'
-  language: 'zh'
+  name: material
+  language: zh
   palette:
-    primary: 'white'
-    accent: 'blue'
+    primary: white
+    accent: blue
   font:
-    text: 'Roboto'
-    code: 'Roboto Mono'
+    text: Roboto
+    code: Roboto Mono
+  icon: 
+    repo: fontawesome/brands/github
   include_search_page: false
   search_index_only: true
   feature:
@@ -28,10 +30,8 @@ theme:
 # Customization
 extra:
   social:
-    - type: 'github'
-      link: 'https://github.com/FlyingSky-CN/MDr'
-    - type: 'globe'
-      link: 'https://blog.fsky7.com/archives/60/'
+    - icon: fontawesome/solid/globe
+      link: https://blog.fsky7.com/archives/60/
 
 # Extensions
 markdown_extensions:
