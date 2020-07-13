@@ -1,10 +1,10 @@
 # 更新日志
 
-## 1.1
+## 1.1.0
 
 !!! success "最新版本"
 !!! note
-    [FlyingSky-CN](https://github.com/FlyingSky-CN) released [this](https://github.com/FlyingSky-CN/MDr/releases/tag/1.1) on July 13th, 2020.
+    [FlyingSky-CN](https://github.com/FlyingSky-CN) released [this](https://github.com/FlyingSky-CN/MDr/releases/tag/1.1.0) on July 13th, 2020.
 
 ### 新增功能
 
