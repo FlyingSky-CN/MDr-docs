@@ -1,8 +1,44 @@
 # 更新日志
 
-## 1.0.4
+## 1.1
 
 !!! success "最新版本"
+!!! note
+    [FlyingSky-CN](https://github.com/FlyingSky-CN) released [this](https://github.com/FlyingSky-CN/MDr/releases/tag/1.1) on July 13th, 2020.
+
+### 新增功能
+
+- 文章标题有超链接了
+- 可以显示文章作者了
+- 右侧边栏有总开关了
+
+### 界面设计
+
+- 新的文章目录设计
+- 搜索框移位
+- 背景音乐按钮移位
+- 密码保护文章密码框
+- 一些界面元素移位
+
+### 错误修复
+
+- 密码保护文章无法正常访问
+
+### 体验优化
+
+- 优化了主题设置面板访问速度
+- 重写了 Dark Mode 机制
+- Pjax 请求时部分渲染
+- 提升了手机端访问体验
+
+### 其他修改
+
+- 优化代码写法
+- 整理了 CSS 代码
+- 修复一些微小的问题
+
+## 1.0.4
+
 !!! note
     [FlyingSky-CN](https://github.com/FlyingSky-CN) released [this](https://github.com/FlyingSky-CN/MDr/releases/tag/1.0.4) on March 12th, 2020.
 
@@ -26,7 +62,6 @@
 - 侧边栏统计样式更改
 - 轻语页面样式更改
 - 标签样式更改
-
 
 ### 错误修复
 
