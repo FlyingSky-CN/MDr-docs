@@ -1,8 +1,34 @@
 # 更新日志
 
-## 1.1.0
+## 1.1.1
 
 !!! success "最新版本"
+
+!!! note
+    [FlyingSky-CN](https://github.com/FlyingSky-CN) released [this](https://github.com/FlyingSky-CN/MDr/releases/tag/1.1.1) on October 1st, 2020.
+
+!!! warning
+    注意，本次更新涉及自动更新功能，建议手动更新，或者多次运行更新程序（即访问 `https://[你的博客域名]/usr/themes/MDr/update.php`）。
+
+### 新增功能
+
+- 现在有短代码用了
+
+### 界面设计
+
+- 给评论区 Pingback 重新设计了样式
+
+### 错误修复
+
+- 加上了 `gtag.js` 的 Pjax 回调
+
+### 其他修改
+
+- 更改了代码文件目录结构
+- 自动更新程序对新目录结构的适配
+
+## 1.1.0
+
 !!! note
     [FlyingSky-CN](https://github.com/FlyingSky-CN) released [this](https://github.com/FlyingSky-CN/MDr/releases/tag/1.1.0) on July 13th, 2020.
 
